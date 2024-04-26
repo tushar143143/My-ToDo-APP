@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       {/* Heading */}
-      <h1 className='font-serif text-3xl'>To-Do Application For QuadB TECH</h1>
+      <h1 className='font-serif text-3xl'>To-Do Application</h1>
       
       {/* AddTodo component to add new tasks */}
       <AddTodo/>
